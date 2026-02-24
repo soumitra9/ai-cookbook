@@ -2,4 +2,3 @@ mcp[cli]==1.10.1
 snowflake-connector-python
 python-dotenv
 pydantic
-
